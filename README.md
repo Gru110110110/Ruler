@@ -4,7 +4,7 @@ a simple RulerView for android
 #How to use
 created by XML like this:
 
-<com.seek.ruler.SimpleRulerView
+\<com.seek.ruler.SimpleRulerView
         android:layout_marginTop="10dp"
         android:id="@+id/height_ruler"
         seek:minValue ="1.0"
@@ -15,6 +15,6 @@ created by XML like this:
         seek:textColor ="@color/green"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        />
+        \/>
 
 
