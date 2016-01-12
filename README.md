@@ -28,6 +28,6 @@ created by XML like this:
 		s.setOnValueChangeListener(this);
 		...
 ```		
-![](https://github.com/pruas/Ruler/raw/test.png)	
+[](https://github.com/pruas/Ruler/raw/test.png)	
 
 
